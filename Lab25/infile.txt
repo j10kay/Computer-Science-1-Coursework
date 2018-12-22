@@ -1,0 +1,55 @@
+Smith
+John
+123456
+3.4
+J
+1750.4
+302
+Fairmont St NW
+Washington
+DC
+20059
+Smitty
+Frank
+78910
+2.7
+F
+1940.7
+302
+Sixth St SW
+Washington
+DC
+20059
+Chijioke
+Kamanu
+02840667
+4.0
+F
+2905.8
+511
+Gresham Place NW
+Washington
+DC
+20059
+Emmanuel
+Daniel
+02843232
+3.88
+S
+560.2
+2400
+Sixth Street NW
+Seattle
+WA
+450272
+Omonzokpia
+Iyoha
+02589322
+3.54
+J
+1011.4
+2455
+Fourth Street NW
+Washington
+DC
+20001
