@@ -1,0 +1,7 @@
+Takoma_store 2.7 71.3 14.7 23.9 51.2
+Bethesda_store 12.7 8.9 17.8 7.9 18.3
+Latifat_store 3.7 74.3 16.7 27.9 58.2
+Kamanu_store 14.7 5.9 18.8 9.9 10.3
+Peniel_store 7.7 78.9 13.7 20.9 61.2
+Emmanuel_store 18.7 3.9 13.8 6.9 28.3
+Steven_store 1.7 61.3 24.7 21.9 71.4
